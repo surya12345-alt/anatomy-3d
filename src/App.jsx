@@ -1,7 +1,7 @@
-import Navbar from "./components/navbar";
-import Hero from "./components/hero";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
 import Explore from "./components/Explore";
-import Features from "./components/features";
+import Features from "./components/Features";
 import About from "./components/About";
 import Footer from "./components/Footer";
 
